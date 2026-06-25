@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 //Function definition
 
@@ -16,3 +17,15 @@ greet()
 3. No parameter, only return
 4. With parameter, with return
 */
+=======
+// Functions
+
+// Define - Step 1
+function greet() {
+    console.log("Hi, how are you?")
+}
+
+// call - Step 2
+greet();
+
+>>>>>>> b15be4a (Ädding functions)
