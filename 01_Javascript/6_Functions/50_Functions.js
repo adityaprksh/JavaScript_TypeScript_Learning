@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 //Function definition
 
 function greet(){
